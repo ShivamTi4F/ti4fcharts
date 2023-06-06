@@ -1,0 +1,28 @@
+{
+  "name": "ti4fcharts",
+  "version": "1.0.0",
+  "description": "Chart Package by TI4F",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "Shivam Parmar",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.4",
+    "@babel/preset-react": "^7.22.3",
+    "babel": "^6.23.0",
+    "babel-loader": "^9.1.2",
+    "chart.js": "^3.9.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack": "^5.85.1",
+    "webpack-cli": "^5.1.3"
+  },
+  "peerDependencies": {
+    "chart.js": "^3.9.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
