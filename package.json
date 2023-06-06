@@ -1,6 +1,6 @@
 {
   "name": "ti4fcharts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chart Package by TI4F",
   "main": "index.js",
   "scripts": {
