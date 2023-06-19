@@ -1,6 +1,6 @@
 # ti4fcharts
 
-React components based chart library devloped besd on for <a href="https://www.chartjs.org">Chart.js</a> and <a href="https://github.com/airbnb/visx">airbnb-visx</a>, the most popular charting library.
+React components based chart library developed based on for <a href="https://www.chartjs.org">Chart.js</a> and <a href="https://github.com/airbnb/visx">airbnb-visx</a>, the most popular charting library.
 
 ## Install Using NPM
 npm i ti4fcharts
