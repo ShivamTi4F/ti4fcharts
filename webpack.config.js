@@ -8,7 +8,7 @@ module.exports = {
     pieChart: './src/charts/pieChart.js',
     lineChart: './src/charts/lineChart.js',
     verticalBarChart: './src/charts/verticalBarChart.js',
-    chartModel: './src/model/chartsModel.js',
+    chartsModel: './src/model/chartsModel.js',
 },
 output: {
   path: path.resolve(__dirname, 'dist'),

@@ -1,0 +1,13 @@
+# Ignore source files
+# charts/
+# model/
+
+# Ignore development-specific files
+# test/
+# docs/
+# examples/
+
+# Ignore build artifacts
+dist/
+build/
+node_modules/
