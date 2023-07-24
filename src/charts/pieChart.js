@@ -15,10 +15,3 @@ function PieChart (props) {
 }
 
 export default PieChart
-
-// Documentation & urls
-
-/*
-https://react-chartjs-2.js.org/examples
-https://www.chartjs.org
-*/
